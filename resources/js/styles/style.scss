@@ -1,0 +1,17 @@
+// abstract 
+@forward './abstracts/reusable.scss';
+
+
+
+// base
+@forward './base/base.scss';
+@forward './base/main.scss';
+
+// pages
+@forward './pages/About.scss';
+@forward './pages/Blog.scss';
+@forward './pages/Contact.scss';
+@forward './pages/Info.scss';
+@forward './pages/Navbar.scss';
+@forward './pages/Portfolio.scss';
+@forward './pages/Resume.scss';
